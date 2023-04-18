@@ -1,4 +1,3 @@
 # March Madness Prediction
 
-# About
-_________________________________________
+## About
