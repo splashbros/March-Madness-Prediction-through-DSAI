@@ -7,7 +7,9 @@ This is our mini-project for SC1015 (Intro to DSAI). The dataset is taken from [
 ## Contributors
 
 Choo Kean Yee (@keaneallen) - Exploratory Data Analysis, Random Forest 
+
 Aaron Lowe (@swalowe) - Multi-Variate Classification Tree, Video Presentation
+
 Chiam Zheng - Poisson Model, Video Editing
 
 ### Problem Statement
