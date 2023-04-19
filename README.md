@@ -20,7 +20,9 @@ Can we use these metrics to build a predictive model?
 ### Models Used 
 
 Poisson Model
+
 Multi-Variate Classification Tree
+
 Random Forest Classification
 
 
