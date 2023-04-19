@@ -34,7 +34,11 @@ Random Forest Classification
 
 ### References 
 https://www.kaggle.com/datasets/nishaanamin/march-madness-data
+
 https://www.forbes.com/sites/jayginsbach/2023/03/12/2023-ncaa-tournament-betting-68-million-americans-to-wager-on-march-madness/?sh=641808132eb2
+
 https://www.datacamp.com/tutorial/random-forests-classifier-python
+
 https://stats.oarc.ucla.edu/r/dae/poisson-regression/
+
 
